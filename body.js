@@ -11,4 +11,4 @@ function calculateBodyMassIndex(n){
         return 'the person is obesity';
     }
 }
-console.log(calculateBodyMassIndex(26))
+console.log(calculateBodyMassIndex(10))
